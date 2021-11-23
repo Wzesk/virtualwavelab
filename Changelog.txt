@@ -1,0 +1,38 @@
+v1.65
+Released 2021/10/08
+Practice 2 issues:
+- Fixed all 0 data in W1 variable exported
+- Fixed Progressive waves loading stationary data
+All practices: Set limitations in all text boxes to no let set Wavegauges in boundaries or externally or preventing WG cart moving very fast.
+
+v1.6a
+Typos correction
+
+v1.6
+Added 2 practices 7 and 8.
+Plotted beach on top of the waves plot.
+Added WG positions in the practices 6 - 8.
+Added WG plotting before the animation start to visualize desired positions.
+
+v1.5
+Big changes for optimization of animations that's why v1.4 was skipped
+New method for Wave Flume animation
+Standarized method to calculate first and animate later.
+Add legends in Axes
+All windows was standardized with tittles of axes.
+Added icon and splash screen
+
+v1.3
+Change plotting proceed of WG axes.Current procedure uses animiatedline and addpoints.
+Corrections in data exportatio in Practice 4 and 5.
+Correction in labels across all practices.
+Versiones antiguas directory contains old version 1.2 source code only.
+
+v1.2
+Practice 4, export correction
+
+v1.1
+Window vertical slider correction
+
+v1.0
+First release
