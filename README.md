@@ -2,7 +2,7 @@ VirtualWaveLab
 
 Virtual Wave Lab is an open software self- application program created in Matlab® aimed to conduct “hands-on” experiments for teaching water wave mechanics courses at undergraduate and graduate levels. The virtual laboratory consists of three components: (i) an educational component consisting of background material and the description of the experiments mainly based on the water wave mechanics book by Dean and Dalrymple (1991),; (ii) synthetic data, corresponding to different Reynolds-Average Navier-Stokes equations simulations (COBRAS: Lin and Liu, 1998; Losada et al., 2008) of laboratory experiments; and (iii) a Graphical User Interface that allows the user to conduct different experiments, including real-time visualization; and realistic data extracted from virtual (free-surface, pressure, and velocity) sensors measurements which can be exported as binary files. The virtual laboratory is aimed to be used by teachers and students. 
 
- 
+![image](https://user-images.githubusercontent.com/30472259/146134851-48716827-2e5d-490b-9dbd-c47db38cbb92.png) 
 
 The description of the Virtual Wave Lab is presented in Torres-Freyermuth et al. (sub judice, Continental Shelf Research).
 
@@ -20,5 +20,3 @@ Dean, R.G. & Dalrymple, R.A. (1991). Water wave mechanics for engineers and scie
 Lin, P., &  Liu, P.L.-F. (1998). A numerical study of breaking waves in the surf zone. J. Fluid Mech. 359, 239–264.
 Losada, I.J., Lara, J.L., Guanche, R., & González-Ondina, J.M. (2008). Numerical analysis of wave overtopping of high mound breakwaters. Coast. Eng. 55, 47–62.
 Torres-Freyermuth, A., Medellín, G., Martín, G.U., & Puleo, J.A. (submitted). A virtual laboratory for conducting “hands-on” experiments on water wave mechanics. Cont. Shelf Res.
-
-![image](https://user-images.githubusercontent.com/30472259/146134466-1346cee7-927f-4e0f-a8fb-8bf4cf0777bb.png)
