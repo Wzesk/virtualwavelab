@@ -1,3 +1,29 @@
+v0.04
+- Corrected help documents for all experiments.
+
+v0.03
+- Corrected experiment 5: the Case 5 and 6 not been disabled when start button is pushed.
+- Renamed Stationary for Standing, in wave conditions in experiment
+- Experiment 3. Pressure variations beneath progressive and standing waves is DISABLED, all the subsequent Experiments renamed beginning in 3.
+
+
+v0.02
+- Added a new case in experiment in experiment 5, file is Case1b2. Case 1-4 moved to Case 2-5, the case disabled is enabled as Case 6.
+
+v0.01
+- IMPORTANT: Project renamed from Numeric Wave Flume to Virtual Wave Lab.
+- Added a new case in experiment 5 (File Case1a2). Case 1-3 moved renamed as Case 2-4. Old case 4 disabled.
+
+v1.8
+-IMPORTANT: Next release reboots version number and the project is uploaded to GitHub.
+- Files renamed from PracticeX to ExperimentX. X represent a number. Changes affect PDF, folders.
+- Error corrections in all experiments.
+- Corrected Experiment 3, the Pressure axes is not cleared after a skip or case ended.
+- Corrections in Experiment 6,7 and 8 where the load button is not activated after change a Test button.
+
+v1.7
+-Many error corrections in all practices.
+
 v1.65
 Released 2021/10/08
 Practice 2 issues:
