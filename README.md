@@ -24,4 +24,4 @@ Torres-Freyermuth, A., Medellín, G., Martín, G.U., & Puleo, J.A. (submitted). 
 
 [VirtualWaveLab for MacOS](https://lipcloud.iingen.unam.mx/index.php/s/SYJ3c6KqALD6QgG)
 
-Due to an incompatibility of Matlab App Designer to open PDF files in compiled applications it is recommended to keep this [Help document](https://github.com/gmartinr/virtualwavelab/raw/main/Help/VirtualWaveFlumeExperiments.pdf) for reference on experiments.
+Due to an incompatibility of Matlab App Designer for MacOS to open PDF files in compiled applications it is recommended to keep this [Help document](https://github.com/gmartinr/virtualwavelab/raw/main/Help/VirtualWaveFlumeExperiments.pdf) for reference on experiments.
